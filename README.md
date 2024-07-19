@@ -1,6 +1,4 @@
 # Convert .csv to .pdf
-In this repo, I wrote a piece of code to convert any .csv to .pdf by using Python programming language.
-I used #pandas and #fpdf libraries in this code.
 
 This code snippet is written in Python and demonstrates how to read a CSV file using the `pandas` library and convert its contents into a PDF file using the `FPDF` library. Here's a complete breakdown of the code and its components:
 
